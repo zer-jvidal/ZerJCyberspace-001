@@ -1,0 +1,11 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="jbGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#800000; stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:#000000; stop-opacity:1"></stop>
+    </linearGradient>
+  </defs>
+  <rect x="20" y="30" width="160" height="120" rx="10" fill="url(#jbGradient)" stroke="#333" stroke-width="3"></rect>
+  <rect x="60" y="160" width="80" height="15" fill="#333" rx="3"></rect>
+  <text x="100" y="105" font-family="Poppins, sans-serif" font-size="60" fill="white" font-weight="bold" text-anchor="middle">JB</text>
+</svg>
